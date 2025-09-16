@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+torch
+tensorflow
+gradio
+streamlit
+opencv-python
+matplotlib
